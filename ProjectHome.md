@@ -1,0 +1,1 @@
+It is simple cross-platform chat with models, similar to Final Fantasy 8 (game on PlayStation one).
